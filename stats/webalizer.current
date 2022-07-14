@@ -1,0 +1,195 @@
+# Webalizer V2.01-06 Incremental Data - 10/02/2006 04:23:36
+2006 10 2 4 23 36
+53 43 9 14 3 5 11677890 35 34 0
+3 3 15 1 2
+46 37 11637366 8 29 28
+7 6 40524 3 6 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 10046 2
+2 2 10046 2
+2 2 10046 2
+16 12 11508529 4
+4 3 25455 3
+6 4 22730 4
+1 1 5023 1
+2 1 5239 1
+1 1 5023 1
+1 1 5023 1
+1 1 5023 1
+3 2 10250 2
+1 1 5023 1
+1 1 5023 1
+0 0 0 0
+1 1 5023 1
+1 1 5023 1
+2 1 5227 1
+1 1 5023 1
+1 1 5023 1
+1 1 5023 1
+1 1 5023 1
+1 1 5023 1
+1 1 5023 1
+0
+0
+0
+43
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 29 3 145667 29 27
+/images/insideplane_small.jpg
+1 1 135282576 11528 0 0
+/images/thermallogosmall.gif
+1 1 135410160 9937 0 0
+/IRsteamsurvey.htm
+0 1 48 4761 1 0
+/IRroofleaksurvey.htm
+0 1 0 7040 0 0
+/ThermalMapIR_files/slide0045.htm
+0 1 0 22937 1 0
+/images/cityscape.jpg
+1 1 1145 23418 0 0
+/images/ThermalMapIR_Brochure2006.pdf
+0 2 7173224 11332045 0 0
+/ThermalMapIR_files/slide0044.htm
+0 1 0 15205 1 0
+/IRthermalmap.htm
+0 1 1663985763 11833 1 0
+/ThermalMapIR_files/slide0038.htm
+0 1 0 5498 1 0
+/images/outsideplane_small.jpg
+1 1 0 6971 0 0
+/images/3examples.jpg
+1 1 796091751 73167 0 0
+/images/stoclog2.gif
+1 1 1869759071 5792 0 0
+# End Of Table - urls
+# -sites- (monthly)
+lj601865.inktomisearch.com
+0 1 1 5023 1 1159701986
+/
+msnbot.msn.com
+0 3 2 12005 1 1159681668
+/IRroofleaksurvey.htm
+lj601639.inktomisearch.com
+0 5 0 1020 0 0
+-
+woclu1.informatik.uni-leipzig.de
+0 1 0 216 0 0
+-
+freewebmonitoring.com
+0 28 28 140644 28 1159763016
+/
+lj612078.inktomisearch.com
+0 1 1 5498 1 1159682104
+/ThermalMapIR_files/slide0038.htm
+lj611075.inktomisearch.com
+0 1 1 22937 1 1159674359
+/ThermalMapIR_files/slide0045.htm
+pc-41-96-86-200.cm.vtr.net
+0 12 9 11475342 1 1159671752
+/IRthermalmap.htm
+lj611870.inktomisearch.com
+0 1 1 15205 1 1159762612
+/ThermalMapIR_files/slide0044.htm
+# End Of Table - sites (monthly)
+# -sites- (daily)
+lj601639.inktomisearch.com
+0 1 0 204 0 0
+-
+freewebmonitoring.com
+0 5 5 25115 5 1159763016
+/
+lj611870.inktomisearch.com
+0 1 1 15205 1 1159762612
+/ThermalMapIR_files/slide0044.htm
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 46
+http://www.google.com/search
+0 1
+http://www.thermalmapir.com/IRthermalmap.htm
+1 6
+# End Of Table - referrers
+# -agents- 
+FreeWebMonitoring SiteChecker/0.1 (+http://www.freewebmonitor
+0 28
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.8.0.7) G
+0 12
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 9
+findlinks/1.1.3-beta9 (+http://wortschatz.uni-leipzig.de/find
+0 1
+# End Of Table - agents
+# -search strings- 
+thermography brochure
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
